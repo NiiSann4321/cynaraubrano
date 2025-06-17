@@ -67,7 +67,9 @@ menu{
     width: 60%;
 
 }
-
+#erro{
+    display: none;
+}
 #sub{
     font-family: var(--ruda);
     font-size: 15px;
